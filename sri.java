@@ -9,6 +9,7 @@ class SComparator
 		// TODO Auto-generated method stub
 		String s1=o1.toString();
 		String s2=o2.toString();
+		String s2=o2.toString();
 		return -s1.compareTo(s2);
 	}
 	
