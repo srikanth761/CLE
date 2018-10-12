@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class SComparator implements Comparator
+class SComparator
 {
 
 	@Override
